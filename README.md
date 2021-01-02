@@ -1,4 +1,4 @@
-# Spoken-Language-Indentification-Using-GRU-and-LSTM
+# Spoken-Language-Indentification-Using-GRU
 Classification of spoken language into English, Hindi or Mandarin - EE599 NLP project
 
 # File Description
